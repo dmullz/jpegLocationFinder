@@ -1,5 +1,5 @@
 # jpegLocationFinder
-Project to decode jpeg images to find location data in the metadata. Can be run in bulk, and can output results to an excel file.
+Project written in Python 3 to decode jpeg images to find location data in the metadata. Can be run in bulk, and can output results to an excel file.
 
 # install
 Clone the project
